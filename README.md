@@ -23,6 +23,7 @@
 API: http://users.bugred.ru/
 
 Документация: https://testbase.atlassian.net/wiki/spaces/USERS/pages/592674928/doRegister
+
 Тип API: REST / SOAP
 
 **Метод:** `doRegister`
