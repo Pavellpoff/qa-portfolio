@@ -48,7 +48,7 @@
 📄 Материалы:
 
 * [Test Cases](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/CreateUser/test-cases.md)
-* [Bug Reports](./API-testing/users-bugred/CreateUser/bugs.md)
+* [Bug Reports](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/CreateUser/bugs.md)
 * [Test Summary](./API-testing/users-bugred/CreateUser/test-summary.md)
 
 ---
