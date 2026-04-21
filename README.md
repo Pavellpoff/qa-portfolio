@@ -66,10 +66,12 @@
 
 📄 Материалы:
 
-* [Test Cases](./API-testing/users-bugred/doRegister/test-cases.md)
-* [Bug Reports](./API-testing/users-bugred/doRegister/bugs.md)
-* [Test Summary](./API-testing/users-bugred/doRegister/test-summary.md)
-
+* [Test Plan](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/test-plan.md)
+* [Checklist](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/checklist.md)
+* [Test Cases Top5](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/test-cases-top5.md)
+* [Test Cases Full](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/test-cases-full.md)
+* [Bug Reports](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/bug-reports.md)
+  
 ---
 
 ## Общие выводы
