@@ -1,4 +1,4 @@
-# Test Plan
+# Test Plan метода doRegister
 
 ## 1. Объект тестирования
 API регистрации пользователей (метод doRegister)
