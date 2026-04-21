@@ -1,4 +1,4 @@
-# Test Cases (Full)
+# Test Cases (Full) для метода doRegister
 
 ## 1. Позитивный сценарий
 
