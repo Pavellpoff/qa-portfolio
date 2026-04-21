@@ -1,4 +1,4 @@
-# Checklist
+# Checklist для метода doRegister
 
 ## Регистрация пользователя (doRegister)
 
