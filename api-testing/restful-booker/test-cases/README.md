@@ -5,6 +5,11 @@
 **Покрытие:**
 
 * Auth (CreateToken)
+* Booking (GetBookingIds)
+* Booking (GetBooking)
+* Booking (CreateBooking)
+* Booking (UpdateBooking)
+
 
 **Инструменты:**
 
