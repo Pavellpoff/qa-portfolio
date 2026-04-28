@@ -1,4 +1,4 @@
-# API Test Cases — Restful Booker
+# API Test Cases - Restful Booker
 
 Данный документ содержит тест-кейсы для проверки API сервиса Restful Booker.
 
