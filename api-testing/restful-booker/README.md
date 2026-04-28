@@ -32,6 +32,7 @@
 /test-cases       — тест-кейсы
 /bug-reports      — баг-репорты
 /test-execution   — результаты тестирования
+/observations     — наблюдения 
 /postman          — коллекция запросов
 ```
 
