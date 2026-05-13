@@ -15,6 +15,27 @@ Junior QA Engineer с фокусом на API и mobile testing.
 В данном репозитории собраны примеры тестовой документации, баг-репортов, тест-кейсов и результатов тестирования API.
 
 
+## Technical Skills
+
+### API Testing
+- REST
+- SOAP
+- Postman
+- SoapUI
+
+### Mobile Testing
+- Android Studio
+- Charles Proxy
+- Proxyman
+- HTTPS traffic interception
+
+### Database
+- SELECT
+- JOIN
+- GROUP BY
+- basic SQL queries
+
+
 ## О проекте
 
 Данный репозиторий содержит примеры моих работ по тестированию.
@@ -22,8 +43,6 @@ Junior QA Engineer с фокусом на API и mobile testing.
 Основные направления:
 
 * API testing (SOAP / REST)
-* UI testing (в процессе)
-* SQL (в процессе)
 
 ---
 
