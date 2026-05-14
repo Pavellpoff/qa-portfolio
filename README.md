@@ -36,22 +36,6 @@ Junior QA Engineer с фокусом на API и mobile testing.
 - basic SQL queries
 
 
-## О проекте
-
-Данный репозиторий содержит примеры моих работ по тестированию.
-
-Основные направления:
-
-* API testing (SOAP / REST)
-
----
-
-## Используемые инструменты
-
-* Postman
-* SoapUI
-* GitHub
-
 ---
 
 ## 📂 Проекты
