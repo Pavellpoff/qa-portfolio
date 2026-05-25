@@ -1,4 +1,4 @@
-# 📱 Mobile Testing — Voyager for Lemmy
+# Mobile Testing - Voyager for Lemmy
 
 Проект по тестированию Android-приложения **Voyager for Lemmy** с использованием Android Studio Emulator и перехвата HTTPS-трафика через Proxyman.
 
@@ -10,12 +10,12 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ---
 
-# 📌 Описание проекта
+# Описание проекта
 
 В рамках проекта проведено исследовательское и негативное тестирование мобильного приложения Voyager for Lemmy.
 
 Основной фокус:
-- анализ API ↔ GUI взаимодействия;
+- анализ API и GUI взаимодействия;
 - проверка устойчивости интерфейса;
 - тестирование обработки нестандартных данных;
 - анализ поведения приложения при ошибках сервера;
@@ -26,7 +26,7 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ---
 
-# 🎯 Цель проекта
+# Цель проекта
 
 - Проверить устойчивость Android-приложения к некорректным данным
 - Исследовать обработку API responses на клиенте
@@ -36,7 +36,7 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ---
 
-# 🛠 Используемые инструменты
+# Используемые инструменты
 
 - Android Studio Emulator
 - Proxyman
@@ -45,7 +45,7 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ---
 
-# 📱 Тестовое окружение
+# Тестовое окружение
 
 - Android 13 (API 33 “Tiramisu”)
 - Resolution: 2400×1800
@@ -67,13 +67,13 @@ https://f-droid.org/packages/app.vger.voyager/
 /screenshots           — скриншоты тестирования
 
 
-# 🔍 Область тестирования
+# Область тестирования
 
 ## Post Content Testing
 - длинные заголовки
 - отсутствующие заголовки
 - длинный текст постов
-- emoji и спецсимволы
+- эмодзи и спецсимволы
 - отсутствующее содержимое
 - обработка изображений
 
@@ -96,13 +96,13 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ## Network / API Analysis
 - анализ API responses
-- API ↔ GUI mapping
+- API и GUI mapping
 - исследование client-side поведения
 - анализ кэширования
 
 ---
 
-# ✅ Покрытие тестами
+# Покрытие тестами
 
 Проверены:
 - позитивные сценарии
@@ -116,7 +116,7 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ---
 
-# 🔎 Основные наблюдения
+# Основные наблюдения
 
 В ходе тестирования выявлено:
 
@@ -129,7 +129,7 @@ https://f-droid.org/packages/app.vger.voyager/
 
 ---
 
-# 📌 Вывод
+# Вывод
 
 Voyager for Lemmy демонстрирует хорошую устойчивость к большинству негативных сценариев:
 
