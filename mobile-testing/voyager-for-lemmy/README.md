@@ -57,7 +57,7 @@ https://f-droid.org/packages/app.vger.voyager/
 
 # 📂 Структура проекта
 
-```text
+text
 /app-analysis          — анализ API и mapping GUI ↔ API
 /test-cases            — тест-кейсы
 /exploratory-testing   — exploratory testing notes
