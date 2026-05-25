@@ -60,9 +60,6 @@ https://f-droid.org/packages/app.vger.voyager/
 ```text
 /app-analysis          — анализ API и mapping GUI / API
 /test-cases            — тест-кейсы
-/exploratory-testing   — exploratory testing notes
-/traffic-analysis      — анализ HTTPS-трафика
-/bug-reports           — потенциальные дефекты и наблюдения
 /test-execution        — результаты тестирования
 /screenshots           — скриншоты тестирования
 ```
@@ -108,7 +105,7 @@ https://f-droid.org/packages/app.vger.voyager/
 - позитивные сценарии
 - негативные сценарии
 - edge cases
-- UI resilience scenarios
+- UI устойчивость
 - server error scenarios
 - content rendering scenarios
 
