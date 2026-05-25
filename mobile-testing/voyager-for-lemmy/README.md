@@ -65,7 +65,7 @@ https://f-droid.org/packages/app.vger.voyager/
 /bug-reports           — потенциальные дефекты и наблюдения
 /test-execution        — результаты тестирования
 /screenshots           — скриншоты тестирования
-
+```
 
 # Область тестирования
 
