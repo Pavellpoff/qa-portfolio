@@ -112,7 +112,7 @@ https://f-droid.org/packages/app.vger.voyager/
 - server error scenarios
 - content rendering scenarios
 
-Всего выполнено: **11 тестовых сценариев**
+Всего выполнено: **10 тестовых сценариев**
 
 ---
 
