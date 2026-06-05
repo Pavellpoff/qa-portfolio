@@ -5,11 +5,11 @@ QA Engineer с фокусом на API и Mobile Testing.
 В данном репозитории собраны учебные и практические проекты по тестированию REST/SOAP API и Android-приложений. Каждый проект содержит тестовую документацию, результаты тестирования, найденные дефекты и выводы.
 
 ---
-Projects: 3
-Test Cases: 40+
-Bug Reports: 20+
-Platforms: API, Android
-Tools: Postman, SoapUI, Proxyman, Android Studio
+* Projects: 3
+* Test Cases: 40+
+* Bug Reports: 20+
+* Platforms: API, Android
+* Tools: Postman, SoapUI, Proxyman, Android Studio
 
 ---
 # Technical Skills
