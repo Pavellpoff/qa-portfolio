@@ -45,7 +45,6 @@ QA Engineer с фокусом на API и Mobile Testing.
 2. API Testing — Restful Booker
 3. Mobile Testing — Voyager for Lemmy
 
----
 
 ## 🔹 1. API Testing - users.bugred.ru
 
