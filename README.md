@@ -1,109 +1,165 @@
 # QA Portfolio
 
-Junior QA Engineer с фокусом на API и mobile testing.
+QA Engineer с фокусом на API и Mobile Testing.
 
-Практический опыт:
-
-* тестирование REST / SOAP API
-* работа с Postman и SoapUI
-* перехват и анализ HTTPS-трафика (Charles Proxy / Proxyman)
-* тестирование Android-приложений через Android Studio Emulator
-* базовые SQL-запросы
-* написание тест-кейсов и баг-репортов
-* exploratory testing
-
-В данном репозитории собраны примеры тестовой документации, баг-репортов, тест-кейсов и результатов тестирования API.
-
-
-## Technical Skills
-
-### API Testing
-- REST
-- SOAP
-- Postman
-- SoapUI
-
-### Mobile Testing
-- Android Studio
-- Charles Proxy
-- Proxyman
-- HTTPS traffic interception
-
-### Database
-- SELECT
-- JOIN
-- GROUP BY
-- basic SQL queries
-
+В данном репозитории собраны учебные и практические проекты по тестированию REST/SOAP API и Android-приложений. Каждый проект содержит тестовую документацию, результаты тестирования, найденные дефекты и выводы.
 
 ---
 
-## 📂 Проекты
+# Technical Skills
 
-### 🔹 API Testing
+## API Testing
 
-#### users.bugred.ru
+* REST
+* SOAP
+* Postman
+* SoapUI
+
+## Mobile Testing
+
+* Android Studio Emulator
+* Charles Proxy
+* Proxyman
+* HTTPS Traffic Interception
+
+## Database
+
+* SQL
+* SELECT
+* JOIN
+* GROUP BY
+
+## Testing
+
+* Test Cases
+* Checklists
+* Bug Reports
+* Test Execution
+* Exploratory Testing
+* Negative Testing
+
+---
+Проекты:
+1. API Testing — users.bugred.ru
+2. API Testing — Restful Booker
+3. Mobile Testing — Voyager for Lemmy
+
+---
+# 📂 Projects
+
+## 🔹 1. API Testing - users.bugred.ru
+
+Тестирование REST и SOAP методов сервиса users.bugred.ru.
+
+### Что проверялось
+
+* регистрация пользователей;
+* обязательные и необязательные поля;
+* валидация данных;
+* обработка ошибок;
+* консистентность работы API.
+
+### Основные результаты
+
+* выявлены проблемы валидации данных;
+* обнаружены несоответствия между API и GUI;
+* найдены дефекты обработки ошибок.
+
+### Материалы проекта
+
+* Test Plan
+* Checklist
+* Test Cases
+* Bug Reports
+* Test Summary
 
 ---
 
-### Метод: CreateUser (SOAP)
+## 🔹 2. API Testing - Restful Booker
 
-Тестирование метода создания пользователя.
+Функциональное тестирование REST API сервиса бронирования.
 
-Что протестировано:
+### Что проверялось
 
-* обязательные и необязательные поля
-* валидация данных
-* обработка ошибок
-* поведение при некорректных данных
+* получение токена авторизации;
+* создание бронирований;
+* получение бронирований;
+* обновление данных;
+* фильтрация и поиск;
+* обработка некорректных данных.
 
-Результат:
+### Основные результаты
 
-* выявлены критические дефекты
-* нарушена целостность данных
-* API ведет себя неконсистентно
+* обнаружены ошибки обработки невалидных параметров;
+* выявлены проблемы с HTTP-статусами;
+* найдены дефекты валидации входных данных;
+* обнаружено сохранение некорректных дат.
 
-📄 Материалы:
+### Используемые инструменты
 
-* [Test Cases](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/CreateUser/test-cases.md)
-* [Bug Reports](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/CreateUser/bugs.md)
-* [Test Summary](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/CreateUser/test-summary.md)
+* Postman
+* GitHub
 
----
+### Материалы проекта
 
-### Метод: doRegister
-
-Тестирование метода регистрации пользователя.
-
-🔍 Что протестировано:
-
-* корректность регистрации
-* валидация обязательных полей
-* обработка ошибок
-* поведение при некорректных данных
-
-📄 Материалы:
-
-* [Test Plan](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/test-plan.md)
-* [Checklist](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/checklist.md)
-* [Test Cases Top5](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/test-cases-top5.md)
-* [Test Cases Full](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/test-cases-full.md)
-* [Bug Reports](https://github.com/Pavellpoff/qa-portfolio/blob/main/api-testing/users-bugred/doRegister/bug-reports.md)
-  
----
-
-## Общие выводы
-
-В ходе тестирования API users.bugred.ru выявлены:
-
-* проблемы валидации данных
-* некорректная обработка ошибок
-* несоответствие API и GUI
-* недостатки документации
-
+* Test Cases
+* Test Execution
+* Bug Reports
+* Postman Collection
+* Observations
 
 ---
 
-## Контакты
+## 🔹 3. Mobile Testing - Voyager for Lemmy
 
-Тг @PavelPovv
+Исследовательское и негативное тестирование Android-приложения Voyager for Lemmy.
+
+### Что проверялось
+
+* устойчивость интерфейса;
+* обработка ошибок сервера;
+* отображение нестандартного контента;
+* работа с API responses;
+* HTML/script injection;
+* корректность отображения данных.
+
+### Используемые инструменты
+
+* Android Studio Emulator
+* Proxyman
+* F-Droid
+
+### Основные результаты
+
+* приложение корректно обрабатывает HTTP 500;
+* интерфейс устойчив к отсутствующим данным;
+* HTML/script-код не выполняется;
+* UI сохраняет стабильность при нестандартных сценариях.
+
+### Материалы проекта
+
+* App Analysis
+* Test Cases
+* Test Execution
+* Screenshots
+
+---
+
+# План дальнейшего развития
+
+Сейчас изучаю автоматизацию тестирования на Java.
+
+Следующий этап развития портфолио:
+
+* Java Core;
+* Maven;
+* TestNG;
+* Rest Assured;
+* API Test Automation;
+* CI/CD (GitHub Actions).
+
+---
+
+# Контакты
+
+Telegram: @PavelPovv
