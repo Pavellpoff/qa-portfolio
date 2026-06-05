@@ -39,13 +39,13 @@ QA Engineer с фокусом на API и Mobile Testing.
 * Negative Testing
 
 ---
-Проекты:
+# 📂 Projects
+
 1. API Testing — users.bugred.ru
 2. API Testing — Restful Booker
 3. Mobile Testing — Voyager for Lemmy
 
 ---
-# 📂 Projects
 
 ## 🔹 1. API Testing - users.bugred.ru
 
