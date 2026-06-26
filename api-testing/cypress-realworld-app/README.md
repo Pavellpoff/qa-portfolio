@@ -1,6 +1,4 @@
-# 📌 Информация о проекте
-
-**Проект:** Cypress Real World App
+# 📌 Информация о проекте Cypress Real World App
 
 **Цель проекта:**
 
