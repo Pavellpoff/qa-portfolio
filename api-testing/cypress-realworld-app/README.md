@@ -1,9 +1,3 @@
-# 📒 Журнал проекта — Cypress Real World App
-
-> Журнал разработки проекта по автоматизации тестирования приложения **Cypress Real World App (RWA)**.
-
----
-
 # 📌 Информация о проекте
 
 **Проект:** Cypress Real World App
