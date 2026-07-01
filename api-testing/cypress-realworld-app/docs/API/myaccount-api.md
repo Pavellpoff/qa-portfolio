@@ -23,7 +23,6 @@
 | 9 | PATCH без Authorization | ❌ |
 | 10 | PATCH без body | ❌ |
 | 11 | PATCH без id | ❌ |
-| 12 | PATCH с null | ❌ |
 
 
 ---
