@@ -55,8 +55,8 @@
 | API spec-файлов                |            5 |
 | Всего spec-файлов              |           10 |
 | Покрыто функциональных модулей | 5 UI + 5 API |
-| Автотестов                     |      80+ |
-| Test Cases                     |      **XX+** |
+| Автотестов                     |          80+ |
+| Test Cases                     |          85+ |
 | Findings                       |       **11** |
 | Bug Reports                    |       **13** |
 | Root Cause Analysis            |        **1** |
