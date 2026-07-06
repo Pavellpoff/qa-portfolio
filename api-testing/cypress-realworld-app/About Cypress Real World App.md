@@ -57,9 +57,9 @@
 | Покрыто функциональных модулей | 5 UI + 5 API |
 | Автотестов                     |          80+ |
 | Test Cases                     |          85+ |
-| Findings                       |       **11** |
-| Bug Reports                    |       **13** |
-| Root Cause Analysis            |        **1** |
+| Findings                       |           11 |
+| Bug Reports                    |           13 |
+| Root Cause Analysis            |            1 |
 
 
 ---
