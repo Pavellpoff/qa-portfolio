@@ -138,4 +138,4 @@
 
 ## Расположение автотестов
 
-`tests/paveltests/UI/new-transaction.spec.js`
+https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/UI/new-request.spec.js
