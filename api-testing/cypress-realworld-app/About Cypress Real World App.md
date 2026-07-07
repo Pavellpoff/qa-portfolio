@@ -115,4 +115,13 @@
 
 
 ---
+## Исходный код проекта
+
+Полный исходный код проекта с UI- и API-автотестами в отдельном репозитории:
+
+👉 https://github.com/Pavellpoff/cypress-realworld-app-qa
+
+Сами тесты расположены по url https://github.com/Pavellpoff/cypress-realworld-app-qa/tree/develop/cypress/tests/paveltests
+
+
 
