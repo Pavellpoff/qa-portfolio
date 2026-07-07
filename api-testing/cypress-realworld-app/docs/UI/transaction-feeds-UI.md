@@ -93,4 +93,4 @@
 
 ## Расположение автотестов
 
-`tests/paveltests/UI/transaction-feeds.spec.js`
+https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/UI/transaction-feeds.spec.js
