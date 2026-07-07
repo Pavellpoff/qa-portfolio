@@ -176,4 +176,4 @@
 
 ## Расположение автотестов
 
-`https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/UI/bankaccounts.spec.js`
+https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/UI/bankaccounts.spec.js
