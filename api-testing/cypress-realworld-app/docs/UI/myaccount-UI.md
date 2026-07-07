@@ -71,3 +71,11 @@
 - обновление страницы;
 - восстановление исходных значений полей;
 - отсутствие несохраненных изменений.
+
+
+
+---
+
+## Расположение автотестов
+
+https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/UI/myaccount.spec.js
