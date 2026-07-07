@@ -135,4 +135,4 @@
 
 UI-автотесты данного модуля находятся в файле:
 
-[`tests/paveltests/UI/auth.spec.js`](https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/API/authAPI.spec.js)
+[`tests/paveltests/UI/auth.spec.js`](https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/UI/auth.spec.js)
