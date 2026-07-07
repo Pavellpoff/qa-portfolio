@@ -158,4 +158,4 @@
 
 ## Расположение автотестов
 
-`tests/paveltests/API/transactionAPI.spec.js`
+https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/API/requestAPI.spec.js
