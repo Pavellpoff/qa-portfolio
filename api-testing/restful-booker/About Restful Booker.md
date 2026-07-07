@@ -1,4 +1,4 @@
-# 🧪 API Testing — Restful Booker
+# 🧪 API Testing - Restful Booker
 
 Проект - тестирование REST API сервиса **Restful Booker** с использованием Postman.
 
