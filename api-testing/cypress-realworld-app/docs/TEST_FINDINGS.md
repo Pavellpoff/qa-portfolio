@@ -132,7 +132,7 @@
 
 ### Связанные ТС
 
-- TC API AUTH-2, AUTH-5, AUTH-6, AUTH-7
+- TC API AUTH-2, API AUTH-5, API AUTH-6, API AUTH-7
 
 
 ---
