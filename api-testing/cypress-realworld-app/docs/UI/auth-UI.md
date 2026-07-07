@@ -22,14 +22,6 @@
 | 10 | Enter вместо кнопки | ✅ |
 
 
----
-
-## Расположение автотестов
-
-UI-автотесты данного модуля находятся в файле:
-
-[`tests/paveltests/UI/auth.spec.js`](https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/API/authAPI.spec.js)
-
 
 ---
 
@@ -134,3 +126,13 @@ UI-автотесты данного модуля находятся в файл
 - получение HTTP 200;
 - успешная авторизация;
 - отображение имени пользователя.
+
+
+
+---
+
+## Расположение автотестов
+
+UI-автотесты данного модуля находятся в файле:
+
+[`tests/paveltests/UI/auth.spec.js`](https://github.com/Pavellpoff/cypress-realworld-app-qa/blob/develop/cypress/tests/paveltests/API/authAPI.spec.js)
