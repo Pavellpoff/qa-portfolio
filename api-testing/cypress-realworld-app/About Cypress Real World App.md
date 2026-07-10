@@ -39,6 +39,10 @@
 - Git
 - GitHub
 
+## CI/CD
+
+В проекте настроен автоматический запуск UI- и API-автотестов через GitHub Actions.
+
 ### Инструменты
 
 - Node.js
@@ -56,6 +60,7 @@
 | Всего spec-файлов              |           10 |
 | Покрыто функциональных модулей | 5 UI + 5 API |
 | Автотестов                     |          80+ |
+| CI Pipeline                    | ✅ GitHub Actions |
 | Test Cases                     |          85+ |
 | Findings                       |           11 |
 | Bug Reports                    |           13 |
