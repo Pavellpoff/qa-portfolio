@@ -137,9 +137,9 @@ Voyager for Lemmy демонстрирует хорошую устойчивос
 
 Проект позволил отработать:
 
-- mobile exploratory testing;
-- API response manipulation;
-- HTTPS traffic interception;
-- negative testing;
-- UI resilience testing;
-- API ↔ GUI analysis.
+- mobile exploratory testing
+- подмена API ответов
+- Перехват HTTPS-трафика
+- негативное тестирование
+- тестирование устойчивости UI
+- API ↔ GUI аналитика
