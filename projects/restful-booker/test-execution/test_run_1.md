@@ -1,4 +1,4 @@
-# Test Execution - Restful Booker
+# Выполнение тестов - Restful Booker
 
 **Дата:** 28.04.2026
 
