@@ -80,7 +80,7 @@ QA Engineer с опытом ручного и автоматизированно
 
 ## 🔹 1. QA Automation - Cypress Real World App
 
-* более 80 UI- и API-автотестов;
+* 91 UI- и API-автотестов;
 * 85+ Test Cases
 * 13 Bug Reports
 * 11 Findings
