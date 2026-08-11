@@ -41,7 +41,37 @@
 
 ## CI/CD
 
-В проекте настроен автоматический запуск UI- и API-автотестов через GitHub Actions.
+Для проекта настроен CI pipeline на GitHub Actions.
+
+При `push` в ветку `develop` и при создании/обновлении Pull Request автоматически запускаются UI- и API-автотесты.
+
+Workflow поддерживает ручной запуск через GitHub Actions.
+
+Последний успешный запуск:
+
+| Metric | Result |
+|---|---:|
+| Total tests | 91 |
+| Passed | 91 |
+| Failed | 0 |
+| Pass rate | 100% |
+
+После выполнения тестов GitHub Actions автоматически формирует:
+
+- Test Summary с итогами запуска;
+- HTML-отчёт Mochawesome;
+- Artifact с HTML-отчётом для скачивания.
+
+👉 [GitHub Actions](https://github.com/Pavellpoff/cypress-realworld-app-qa/actions/workflows/portfolio.yml)
+
+### Как посмотреть результаты автотестов
+
+1. Откройте [GitHub Actions](https://github.com/Pavellpoff/cypress-realworld-app-qa/actions/workflows/portfolio.yml).
+2. Откройте последний успешный запуск `Portfolio QA Tests`.
+3. В разделе Summary можно посмотреть общий результат выполнения тестов.
+4. В разделе Artifacts доступен для скачивания архив с полным HTML-отчетом (требуется разархивация для просмотра содержимого).
+
+> Для ручного запуска workflow через `Run workflow` требуется авторизация GitHub с правами записи в репозитории.
 
 ### Инструменты
 
@@ -59,7 +89,7 @@
 | API spec-файлов                |            5 |
 | Всего spec-файлов              |           10 |
 | Покрыто функциональных модулей | 5 UI + 5 API |
-| Автотестов                     |          80+ |
+| Автотестов                     |           91 |
 | CI Pipeline                    | ✅ GitHub Actions |
 | Test Cases                     |          85+ |
 | Findings                       |           11 |
