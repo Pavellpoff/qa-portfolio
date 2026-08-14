@@ -59,8 +59,8 @@ Workflow поддерживает ручной запуск через GitHub Ac
 После выполнения тестов GitHub Actions автоматически формирует:
 
 - Test Summary с итогами запуска;
-- HTML-отчёт Mochawesome;
-- Artifact с HTML-отчётом для скачивания.
+- HTML-отчет Mochawesome;
+- Artifact с HTML-отчетом для скачивания.
 
 👉 [GitHub Actions](https://github.com/Pavellpoff/cypress-realworld-app-qa/actions/workflows/portfolio.yml)
 
@@ -136,7 +136,7 @@ Workflow поддерживает ручной запуск через GitHub Ac
 
 В рамках проекта подготовлена тестовая документация для реализованных модулей:
 
--  Test Cases;
+- Test Cases;
 - Test Findings;
 - Bug Reports;
 - Root Cause Analysis.
@@ -148,6 +148,9 @@ Workflow поддерживает ручной запуск через GitHub Ac
 | Bug Reports         | Подтвержденные дефекты, обнаруженные в ходе тестирования               |
 | Root Cause Analysis | Анализ предполагаемой причины одного из критических дефектов           |
 
+---
+
+📜 [История развития проекта](CHANGELOG.md)
 
 ---
 ## Исходный код проекта
